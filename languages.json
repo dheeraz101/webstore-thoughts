@@ -1,11 +1,11 @@
 [
     {
         "name": "Hindi", 
-        "url": "languages/vindi.json"
+        "url": "vindi.json"
     },
     {
         "name": "English", 
-        "url": "languages/vnglish.json"
+        "url": "vnglish.json"
     }
 ]
 
