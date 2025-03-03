@@ -1,11 +1,11 @@
 [
     {
         "name": "Hindi", 
-        "url": "https://raw.githubusercontent.com/dheeraz101/webstore-thoughts/main/vindi.json"
+        "url": "languages/vindi.json"
     },
     {
         "name": "English", 
-        "url": "https://raw.githubusercontent.com/dheeraz101/webstore-thoughts/main/vnglish.json"
+        "url": "languages/vnglish.json"
     }
 ]
 
