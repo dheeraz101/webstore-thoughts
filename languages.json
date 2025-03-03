@@ -1,11 +1,4 @@
 [
-    {
-        "name": "Hindi", 
-        "url": "vindi.json"
-    },
-    {
-        "name": "English", 
-        "url": "vnglish.json"
-    }
+    {"name": "English", "file": "vnglish.json"},
+    {"name": "Hindi", "file": "vindi.json"}
 ]
-
