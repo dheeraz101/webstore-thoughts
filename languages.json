@@ -1,9 +1,9 @@
 [
-    { "name": "English", "isNative": "English", "file": "vnglish.json", "isFree": true, "description": "The global lingua franca, widely used in business and technology." },
-    { "name": "Spanish", "isNative": "Español", "file": "", "isFree": true, "description": "A widely spoken Romance language, native to Spain and Latin America." },
-    { "name": "French", "isNative": "Français", "file": "", "isFree": true, "description": "The language of diplomacy, spoken in France and many parts of Africa." },
+    { "name": "English", "isNative": "English", "file": "english.json", "isFree": true, "description": "The global lingua franca, widely used in business and technology." },
+    { "name": "Spanish", "isNative": "Español", "file": "spanish.json", "isFree": true, "description": "A widely spoken Romance language, native to Spain and Latin America." },
+    { "name": "French", "isNative": "Français", "file": "french.json", "isFree": true, "description": "The language of diplomacy, spoken in France and many parts of Africa." },
     { "name": "German", "isNative": "Deutsch", "file": "", "isFree": true, "description": "A major European language spoken primarily in Germany, Austria, and Switzerland." },
-    { "name": "Hindi", "isNative": "हिन्दी", "file": "vindi.json", "isFree": true, "description": "A major Indian language and one of the most spoken languages worldwide." },
+    { "name": "Hindi", "isNative": "हिन्दी", "file": "hindi.json", "isFree": true, "description": "A major Indian language and one of the most spoken languages worldwide." },
     { "name": "Marathi", "isNative": "मराठी", "file": "", "isFree": true, "description": "An Indian language spoken predominantly in Maharashtra." },
     { "name": "Tamil", "isNative": "தமிழ்", "file": "", "isFree": true, "description": "A Dravidian language spoken mainly in Tamil Nadu and Sri Lanka." },
     { "name": "Telugu", "isNative": "తెలుగు", "file": "", "isFree": true, "description": "A South Indian language spoken widely in Andhra Pradesh and Telangana." },

@@ -1,7 +1,7 @@
 {
   "appId": "thoughts-app-langs",
-  "Vindi": {
-      "name": "हिन्दी2",
+  "Hindi": {
+      "name": "हिन्दी",
       "appName": "विचार",
       "chooseLanguage": "अपनी भाषा चुनें",
       "deleteAllButton": "सब हटाओ",
