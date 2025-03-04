@@ -1,5 +1,5 @@
 [
-    {"name": "English", "file": "english.json", "isFree": "true"},
+    {"name": "English", "file": "vnglish.json", "isFree": "true"},
     {"name": "Hindi", "file": "vindi.json", "isFree": "true"}
 ]
 
