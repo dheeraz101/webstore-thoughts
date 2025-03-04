@@ -1,6 +1,16 @@
 [
-    {"name": "English", "file": "vnglish.json", "isFree": "true"},
-    {"name": "Hindi", "file": "vindi.json", "isFree": "true"}
+    {
+        "name": "English", 
+        "file": "vnglish.json", 
+        "isFree": "true",  
+        "description": "English language pack supports all the Elements and improves the overall experience."
+    },
+    {
+        "name": "Hindi", 
+        "file": "vindi.json", 
+        "isFree": "true",
+        "description": "Hindi is one of the Best Language pack and the most popular also."
+    }
 ]
 
 
