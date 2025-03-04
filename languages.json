@@ -1,16 +1,41 @@
 [
-    {
-        "name": "English", 
-        "file": "vnglish.json", 
-        "isFree": "true",  
-        "description": "English language pack supports all the Elements and improves the overall experience."
-    },
-    {
-        "name": "Hindi", 
-        "file": "vindi.json", 
-        "isFree": "true",
-        "description": "Hindi is one of the Best Language pack and the most popular also."
-    }
-]
-
-
+    { "name": "English", "isNative": "English", "file": "vnglish.json", "isFree": true, "description": "The global lingua franca, widely used in business and technology." },
+    { "name": "Spanish", "isNative": "Español", "file": "", "isFree": true, "description": "A widely spoken Romance language, native to Spain and Latin America." },
+    { "name": "French", "isNative": "Français", "file": "", "isFree": true, "description": "The language of diplomacy, spoken in France and many parts of Africa." },
+    { "name": "German", "isNative": "Deutsch", "file": "", "isFree": true, "description": "A major European language spoken primarily in Germany, Austria, and Switzerland." },
+    { "name": "Hindi", "isNative": "हिन्दी", "file": "vindi.json", "isFree": true, "description": "A major Indian language and one of the most spoken languages worldwide." },
+    { "name": "Marathi", "isNative": "मराठी", "file": "", "isFree": true, "description": "An Indian language spoken predominantly in Maharashtra." },
+    { "name": "Tamil", "isNative": "தமிழ்", "file": "", "isFree": true, "description": "A Dravidian language spoken mainly in Tamil Nadu and Sri Lanka." },
+    { "name": "Telugu", "isNative": "తెలుగు", "file": "", "isFree": true, "description": "A South Indian language spoken widely in Andhra Pradesh and Telangana." },
+    { "name": "Bengali", "isNative": "বাংলা", "file": "", "isFree": true, "description": "The language of West Bengal and Bangladesh, rich in literature and culture." },
+    { "name": "Gujarati", "isNative": "ગુજરાતી", "file": "", "isFree": true, "description": "A language of Gujarat, known for its business influence and literature." },
+    { "name": "Punjabi", "isNative": "ਪੰਜਾਬੀ", "file": "", "isFree": true, "description": "The language of Punjab, widely spoken in India and Pakistan." },
+    { "name": "Malayalam", "isNative": "മലയാളം", "file": "", "isFree": true, "description": "A Dravidian language spoken mainly in Kerala." },
+    { "name": "Kannada", "isNative": "ಕನ್ನಡ", "file": "", "isFree": true, "description": "A South Indian language spoken in Karnataka." },
+    { "name": "Odia", "isNative": "ଓଡ଼ିଆ", "file": "", "isFree": true, "description": "A classical Indian language spoken in Odisha." },
+    { "name": "Urdu", "isNative": "اردو", "file": "", "isFree": true, "description": "A poetic language spoken in India and Pakistan." },
+    { "name": "Japanese", "isNative": "日本語", "file": "", "isFree": true, "description": "The language of Japan, known for its three writing scripts." },
+    { "name": "Korean", "isNative": "한국어", "file": "", "isFree": true, "description": "The language of Korea, known for its unique Hangul script." },
+    { "name": "Chinese", "isNative": "中文", "file": "", "isFree": true, "description": "A major world language, encompassing Mandarin and Cantonese dialects." },
+    { "name": "Russian", "isNative": "Русский", "file": "", "isFree": true, "description": "A Slavic language spoken across Russia and Eastern Europe." },
+    { "name": "Portuguese", "isNative": "Português", "file": "", "isFree": true, "description": "A Romance language spoken in Portugal, Brazil, and parts of Africa." },
+    { "name": "Italian", "isNative": "Italiano", "file": "", "isFree": true, "description": "The language of Italy, known for its musical and cultural influence." },
+    { "name": "Dutch", "isNative": "Nederlands", "file": "", "isFree": true, "description": "A Germanic language spoken in the Netherlands and Belgium." },
+    { "name": "Greek", "isNative": "Ελληνικά", "file": "", "isFree": true, "description": "The language of Greece, rich in history and philosophy." },
+    { "name": "Turkish", "isNative": "Türkçe", "file": "", "isFree": true, "description": "The language of Turkey, with roots in Central Asia." },
+    { "name": "Arabic", "isNative": "العربية", "file": "", "isFree": true, "description": "A major Semitic language spoken across the Middle East and North Africa." },
+    { "name": "Hebrew", "isNative": "עברית", "file": "", "isFree": true, "description": "A Semitic language and the official language of Israel." },
+    { "name": "Persian", "isNative": "فارسی", "file": "", "isFree": true, "description": "A poetic language spoken in Iran, Afghanistan, and Tajikistan." },
+    { "name": "Thai", "isNative": "ไทย", "file": "", "isFree": true, "description": "The tonal language of Thailand, written in a unique script." },
+    { "name": "Vietnamese", "isNative": "Tiếng Việt", "file": "", "isFree": true, "description": "A tonal language spoken primarily in Vietnam." },
+    { "name": "Swedish", "isNative": "Svenska", "file": "", "isFree": true, "description": "The Germanic language of Sweden, known for its melodic tones." },
+    { "name": "Danish", "isNative": "Dansk", "file": "", "isFree": true, "description": "The language of Denmark, closely related to Swedish and Norwegian." },
+    { "name": "Norwegian", "isNative": "Norsk", "file": "", "isFree": true, "description": "The language of Norway, with two written forms: Bokmål and Nynorsk." },
+    { "name": "Finnish", "isNative": "Suomi", "file": "", "isFree": true, "description": "A unique Finno-Ugric language spoken in Finland." },
+    { "name": "Hungarian", "isNative": "Magyar", "file": "", "isFree": true, "description": "A non-Indo-European language spoken in Hungary." },
+    { "name": "Polish", "isNative": "Polski", "file": "", "isFree": true, "description": "A Slavic language spoken in Poland, rich in consonants." },
+    { "name": "Czech", "isNative": "Čeština", "file": "", "isFree": true, "description": "A Slavic language spoken in the Czech Republic." },
+    { "name": "Ukrainian", "isNative": "Українська", "file": "", "isFree": true, "description": "The official language of Ukraine, closely related to Russian." },
+    { "name": "Romanian", "isNative": "Română", "file": "", "isFree": true, "description": "A Romance language spoken in Romania and Moldova." }
+  ]
+  
