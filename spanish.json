@@ -82,6 +82,10 @@
         "updateFailedMessage": "No se pudo completar la actualización. Por favor, inténtelo de nuevo.",
         "updateFailedConfirm": "OK",
         "newUpdateTitle": "Nueva actualización disponible",
-        "updateNowButton": "Actualizar ahora"
+        "updateNowButton": "Actualizar ahora",
+        "shareButton": "Compartir",
+        "shareSuccessMessage": "¡Post compartido!",
+        "shareFallbackMessage": "¡Post copiado al portapapeles!",
+        "shareErrorMessage": "Error al copiar el post."
     }
 }

@@ -82,6 +82,10 @@
         "updateFailedMessage": "Impossible de terminer la mise à jour. Veuillez réessayer.",
         "updateFailedConfirm": "OK",
         "newUpdateTitle": "Nouvelle mise à jour disponible",
-        "updateNowButton": "Mettre à jour maintenant"
+        "updateNowButton": "Mettre à jour maintenant",
+        "shareButton": "Partager",
+        "shareSuccessMessage": "Post partagé !",
+        "shareFallbackMessage": "Post copié dans le presse-papiers !",
+        "shareErrorMessage": "Échec de la copie du post."
     }
 }

@@ -82,7 +82,11 @@
       "updateFailedMessage": "⚠️",
       "updateFailedConfirm": "✅",
       "newUpdateTitle": "🔄📲",
-      "updateNowButton": "🔄" 
+      "updateNowButton": "🔄",
+      "shareButton": "📤",
+      "shareSuccessMessage": "✅📢",
+      "shareFallbackMessage": "📋✅",
+      "shareErrorMessage": "❌📋"
     }
   }
   

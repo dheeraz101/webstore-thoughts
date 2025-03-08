@@ -82,7 +82,11 @@
       "updateFailedMessage": "Update fail hogaya! Phir se try kar Babu! 😅",
       "updateFailedConfirm": "Okay Babu! ✅",
       "newUpdateTitle": "Naya Update Hai Babu! 📲",
-      "updateNowButton": "Update Kar Babu! 🔄"
+      "updateNowButton": "Update Kar Babu! 🔄",
+      "shareButton": "Share Babu!",
+      "shareSuccessMessage": "Share Hogaya Babu",
+      "shareFallbackMessage": "Copy hogaya abh share kar Babu!",
+      "shareErrorMessage": "share nahi hua Babu! 😅"
     }
   }
   

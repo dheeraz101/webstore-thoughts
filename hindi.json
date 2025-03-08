@@ -82,6 +82,10 @@
       "updateFailedMessage": "अपडेट पूरी नहीं हो सकी। कृपया फिर से प्रयास करें।",
       "updateFailedConfirm": "ठीक है",
       "newUpdateTitle": "नया अपडेट उपलब्ध है",
-      "updateNowButton": "अभी अपडेट करें"
+      "updateNowButton": "अभी अपडेट करें",
+      "shareButton": "साझा करें",
+      "shareSuccessMessage": "पोस्ट साझा किया गया!",
+      "shareFallbackMessage": "पोस्ट क्लिपबोर्ड में कॉपी किया गया!",
+      "shareErrorMessage": "पोस्ट कॉपी करने में विफल।"
   }
 }

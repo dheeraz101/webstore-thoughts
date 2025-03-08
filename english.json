@@ -82,6 +82,10 @@
     "updateFailedMessage": "Could not complete update. Please try again.",
     "updateFailedConfirm": "OK",
     "newUpdateTitle": "New Update Available",
-    "updateNowButton": "Update Now"
+    "updateNowButton": "Update Now",
+    "shareButton": "Share",
+    "shareSuccessMessage": "Post shared!",
+    "shareFallbackMessage": "Post copied to clipboard!",
+    "shareErrorMessage": "Failed to copy post."
   }
 }
