@@ -64,8 +64,24 @@
       "invalidFileMessage": "कृपया एक वैध JSON फ़ाइल अपलोड करें।",
       "notThoughtsLanguage": "यह Thoughts ऐप की भाषा फ़ाइल नहीं है। केवल आधिकारिक Thoughts भाषा पैक अनुमत हैं।",
       "invalidJSONMessage": "JSON फ़ाइल को पार्स नहीं किया जा सका। कृपया सुनिश्चित करें कि यह मान्य है।",
-      "languageUploaded": "भाषा",
-      "uploadedAndApplied": "अपलोड किया गया और",
-      "applied": "लागू किया गया"
+      "applyingLanguageMessage": "\"{name}\" भाषा स्विच की गई है।",
+      "addingLanguageTitle": "भाषा जोड़ी गई",
+      "addingLanguageMessage": "\"{name}\" भाषा अपलोड की गई।",
+      "deletingLanguageTitle": "भाषा हटाई गई",
+      "deletingLanguageMessage": "\"{name}\" हटा दी गई।",
+      "welcomeMessage": "स्वागत है! भाषा सेट की गई है \"{name}\"।",
+      "refreshMessage": "बदलाव लागू करने के लिए ऐप रिफ्रेश होगा।",
+      "applyButton": "लागू करें",
+      "emptyPostTitle": "खाली नोट",
+      "emptyPostMessage": "आपने अभी तक कुछ नहीं लिखा! पोस्ट करने से पहले कुछ लिखें।",
+      "updateTitle": "अपडेट लागू करें?",
+      "updateMessage": "ऐप नई संस्करण लागू करने के लिए रिफ्रेश होगा। असहेज बदलाव सुरक्षित रहेंगे।",
+      "updateConfirm": "अपडेट करें",
+      "updateCancel": "रद्द करें",
+      "updateFailedTitle": "अपडेट असफल",
+      "updateFailedMessage": "अपडेट पूरी नहीं हो सकी। कृपया फिर से प्रयास करें।",
+      "updateFailedConfirm": "ठीक है",
+      "newUpdateTitle": "नया अपडेट उपलब्ध है",
+      "updateNowButton": "अभी अपडेट करें"
   }
 }

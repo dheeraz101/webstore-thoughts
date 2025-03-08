@@ -64,8 +64,24 @@
     "invalidFileMessage": "Please upload a valid JSON file.",
     "notThoughtsLanguage": "This is not a Thoughts app language file. Only official Thoughts language packs are allowed.",
     "invalidJSONMessage": "Could not parse the JSON file. Please ensure it’s valid.",
-    "languageUploaded": "Language",
-    "uploadedAndApplied": "uploaded and",
-    "applied": "applied"
+    "applyingLanguageMessage": "Language switched to \"{name}\".",
+    "addingLanguageTitle": "Language Added",
+    "addingLanguageMessage": "Language uploaded: \"{name}\".",
+    "deletingLanguageTitle": "Language Deleted",
+    "deletingLanguageMessage": "\"{name}\" deleted.",
+    "welcomeMessage": "Welcome! Language set to \"{name}\".",
+    "refreshMessage": "The app will refresh to apply changes.",
+    "applyButton": "Apply",
+    "emptyPostTitle": "Empty Note",
+    "emptyPostMessage": "You haven’t written anything yet! Add some text before posting.",
+    "updateTitle": "Apply Update?",
+    "updateMessage": "The app will refresh to apply the new version. Unsaved changes will be preserved.",
+    "updateConfirm": "Update",
+    "updateCancel": "Cancel",
+    "updateFailedTitle": "Update Failed",
+    "updateFailedMessage": "Could not complete update. Please try again.",
+    "updateFailedConfirm": "OK",
+    "newUpdateTitle": "New Update Available",
+    "updateNowButton": "Update Now"
   }
 }

@@ -64,8 +64,24 @@
         "invalidFileMessage": "Veuillez télécharger un fichier JSON valide.",
         "notThoughtsLanguage": "Ce n'est pas un fichier de langue de l'application Thoughts. Seuls les packs de langue officiels de Thoughts sont autorisés.",
         "invalidJSONMessage": "Impossible d'analyser le fichier JSON. Veuillez vous assurer qu'il est valide.",
-        "languageUploaded": "Langue",
-        "uploadedAndApplied": "téléchargé et",
-        "applied": "appliqué"
+        "applyingLanguageMessage": "La langue a été changée en \"{name}\".",
+        "addingLanguageTitle": "Langue ajoutée",
+        "addingLanguageMessage": "Langue téléchargée : \"{name}\".",
+        "deletingLanguageTitle": "Langue supprimée",
+        "deletingLanguageMessage": "\"{name}\" supprimée.",
+        "welcomeMessage": "Bienvenue ! La langue est définie sur \"{name}\".",
+        "refreshMessage": "L'application va se rafraîchir pour appliquer les changements.",
+        "applyButton": "Appliquer",
+        "emptyPostTitle": "Note vide",
+        "emptyPostMessage": "Vous n'avez encore rien écrit ! Ajoutez du texte avant de publier.",
+        "updateTitle": "Appliquer la mise à jour ?",
+        "updateMessage": "L'application va se rafraîchir pour appliquer la nouvelle version. Les modifications non enregistrées seront préservées.",
+        "updateConfirm": "Mettre à jour",
+        "updateCancel": "Annuler",
+        "updateFailedTitle": "Échec de la mise à jour",
+        "updateFailedMessage": "Impossible de terminer la mise à jour. Veuillez réessayer.",
+        "updateFailedConfirm": "OK",
+        "newUpdateTitle": "Nouvelle mise à jour disponible",
+        "updateNowButton": "Mettre à jour maintenant"
     }
 }
