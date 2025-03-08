@@ -36,6 +36,7 @@
     { "name": "Polish", "isNative": "Polski", "file": "", "isFree": true, "description": "A Slavic language spoken in Poland, rich in consonants." },
     { "name": "Czech", "isNative": "Čeština", "file": "", "isFree": true, "description": "A Slavic language spoken in the Czech Republic." },
     { "name": "Ukrainian", "isNative": "Українська", "file": "", "isFree": true, "description": "The official language of Ukraine, closely related to Russian." },
-    { "name": "Romanian", "isNative": "Română", "file": "", "isFree": true, "description": "A Romance language spoken in Romania and Moldova." }
+    { "name": "Romanian", "isNative": "Română", "file": "", "isFree": true, "description": "A Romance language spoken in Romania and Moldova." },
+    { "name": "Emojis", "isNative": "😎", "file": "emojis.json", "isFree": true, "description": "The digital language that uses meaningful and sarcastic emojis." }
   ]
   
