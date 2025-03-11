@@ -86,6 +86,13 @@
     "shareButton": "Share",
     "shareSuccessMessage": "Post shared!",
     "shareFallbackMessage": "Post copied to clipboard!",
-    "shareErrorMessage": "Failed to copy post."
+    "shareErrorMessage": "Failed to copy post.",
+    "zoomEnabledText": "Zoom: On",
+    "zoomDisabledText": "Zoom: Off",
+    "zoomEnabledNotification": "Zoom Enabled",
+    "zoomDisabledNotification": "Zoom Disabled",
+    "footerDescription": "Efficiently crafted: Entire app under 1MB, including all assets.",
+    "volumeNotificationTitle": "Enhance Your Experience",
+    "volumeNotificationMessage": "For the best experience with sound effects, please turn your device volume to maximum."
   }
 }

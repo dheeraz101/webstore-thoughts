@@ -86,7 +86,14 @@
       "shareButton": "📤",
       "shareSuccessMessage": "✅📢",
       "shareFallbackMessage": "📋✅",
-      "shareErrorMessage": "❌📋"
+      "shareErrorMessage": "❌📋",
+      "zoomEnabledText": "🔍✅",
+      "zoomDisabledText": "🔍❌",
+      "zoomEnabledNotification": "🔍✅",
+      "zoomDisabledNotification": "🔍❌",
+      "footerDescription": "⚡📱 <1MB 🔥",
+      "volumeNotificationTitle": "🔊🎧",
+      "volumeNotificationMessage": "📢🔝🔊"
     }
   }
   

@@ -86,6 +86,13 @@
         "shareButton": "Compartir",
         "shareSuccessMessage": "¡Post compartido!",
         "shareFallbackMessage": "¡Post copiado al portapapeles!",
-        "shareErrorMessage": "Error al copiar el post."
+        "shareErrorMessage": "Error al copiar el post.",
+        "zoomEnabledText": "Zoom: Activado",
+        "zoomDisabledText": "Zoom: Desactivado",
+        "zoomEnabledNotification": "Zoom Activado",
+        "zoomDisabledNotification": "Zoom Desactivado",
+        "footerDescription": "Eficientemente diseñado: Toda la aplicación ocupa menos de 1MB, incluyendo todos los activos.",
+        "volumeNotificationTitle": "Mejora tu experiencia",
+        "volumeNotificationMessage": "Para la mejor experiencia con efectos de sonido, sube el volumen de tu dispositivo al máximo."
     }
 }

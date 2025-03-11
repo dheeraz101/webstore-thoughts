@@ -16,7 +16,7 @@
       "addButton": "Add Kar",
       "saveButton": "yes babu",
       "clearButton": "Saaf kar",
-      "cancelEditButton": "nahi Babu",
+      "cancelEditButton": "nahi",
       "inputPlaceholder": "Try @title with #hashtag, Babu 😎",
       "noPostsMessage": "Arre! Kya likhne ka mood nahi tha kya? ✍️",
       "noResultsMessage": "Babu kuch nahi mila, search aur add kar. 🔍",
@@ -86,7 +86,14 @@
       "shareButton": "Share Babu!",
       "shareSuccessMessage": "Share Hogaya Babu",
       "shareFallbackMessage": "Copy hogaya abh share kar Babu!",
-      "shareErrorMessage": "share nahi hua Babu! 😅"
+      "shareErrorMessage": "share nahi hua Babu! 😅",
+      "zoomEnabledText": "Zoom nahi",
+      "zoomDisabledText": "Zoom karu",
+      "zoomEnabledNotification": "Babu Zoom On Hogaya! 😎",
+      "zoomDisabledNotification": "Babu Zoom Off Hogaya! 😢",
+      "footerDescription": "Babu Ki App Chhoti Magar Masti Bhari! Sirf 1MB! 🚀🔥",
+      "volumeNotificationTitle": "Awaaz Full Kar Babu! 🔊🔥",
+      "volumeNotificationMessage": "Babu, Sound Effects Ka Full Maza Lene Ke Liye Volume Full Kar Do! 📢🎶"
     }
   }
   

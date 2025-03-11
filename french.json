@@ -86,6 +86,13 @@
         "shareButton": "Partager",
         "shareSuccessMessage": "Post partagé !",
         "shareFallbackMessage": "Post copié dans le presse-papiers !",
-        "shareErrorMessage": "Échec de la copie du post."
+        "shareErrorMessage": "Échec de la copie du post.",
+        "zoomEnabledText": "Zoom : Activé",
+        "zoomDisabledText": "Zoom : Désactivé",
+        "zoomEnabledNotification": "Zoom Activé",
+        "zoomDisabledNotification": "Zoom Désactivé",
+        "footerDescription": "Conçu efficacement : L'application entière fait moins de 1 Mo, y compris tous les actifs.",
+        "volumeNotificationTitle": "Améliorez votre expérience",
+        "volumeNotificationMessage": "Pour une meilleure expérience avec les effets sonores, veuillez augmenter le volume de votre appareil au maximum."
     }
 }

@@ -86,6 +86,13 @@
       "shareButton": "साझा करें",
       "shareSuccessMessage": "पोस्ट साझा किया गया!",
       "shareFallbackMessage": "पोस्ट क्लिपबोर्ड में कॉपी किया गया!",
-      "shareErrorMessage": "पोस्ट कॉपी करने में विफल।"
+      "shareErrorMessage": "पोस्ट कॉपी करने में विफल।",
+      "zoomEnabledText": "ज़ूम: चालू",
+      "zoomDisabledText": "ज़ूम: बंद",
+      "zoomEnabledNotification": "ज़ूम सक्षम हुआ",
+      "zoomDisabledNotification": "ज़ूम अक्षम हुआ",
+      "footerDescription": "कुशलता से निर्मित: पूरी ऐप 1MB से कम, सभी संपत्तियों सहित।",
+      "volumeNotificationTitle": "अपना अनुभव बढ़ाएँ",
+      "volumeNotificationMessage": "ध्वनि प्रभावों के साथ सर्वश्रेष्ठ अनुभव के लिए, कृपया अपने डिवाइस की आवाज़ अधिकतम करें।"
   }
 }
