@@ -51,7 +51,9 @@
       "okButton": "Chal Ok Kar Babu! ✅",
       "footerCraftedBy": "Banaya Babu ne 👨‍💻",
       "footerMadeWithLove": "Dil Se Banaya Babu ke liye ❤️",
-      "footerRightsReserved": "©️ 2025 Babu's Thoughts. All Rights Reserved. 🦄",
+      "footerRightsReserved": "Saare adhikaar surakshit. 🦄",
+      "days": ["ChillDay 😴", "Monday Boring 😩", "Tandoori Tuesday 🍗", "Biryani Wednesday 🍛", "Thirsty Thursday 🍹", "FriYay 🎉", "Shaadi Saturday 💃"],
+      "months": ["Jan-Babu ❄️", "Feb-Pyaar ❤️", "Mast March 🌸", "A1 April 😂", "Mast May ☀️", "June Boom 🚀", "July Swag 😎", "August King 👑", "Sept Full Mood 🔥", "Oct Haunted 👻", "Nov Nawabi 💰", "Dec Party 🎄"],
       "deleteLanguageTitle": "Babu Ka Language Chhup Gaya? 🥲",
       "uploadLanguage": "Language Daale Babu 📤",
       "deleteLanguageConfirm" : "Arey, Babu language delete kar rahe ho? 😱",
@@ -93,7 +95,8 @@
       "zoomDisabledNotification": "Babu Zoom Off Hogaya! 😢",
       "footerDescription": "Babu Ki App Chhoti Magar Masti Bhari! Sirf 1MB! 🚀🔥",
       "volumeNotificationTitle": "Awaaz Full Kar Babu! 🔊🔥",
-      "volumeNotificationMessage": "Babu, Sound Effects Ka Full Maza Lene Ke Liye Volume Full Kar Do! 📢🎶"
+      "volumeNotificationMessage": "Babu, Sound Effects Ka Full Maza Lene Ke Liye Volume Full Kar Do! 📢🎶",
+      "whatsNewTitle": "Babu, v{version} me kya naya hai? 🔥😎"
     }
   }
   

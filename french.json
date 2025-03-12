@@ -22,7 +22,9 @@
         "footerPrivacy": "Pensées est sécurisé et privé. Aucune donnée collectée—tes notes restent locales.",
         "footerCraftedBy": "Créé par",
         "footerMadeWithLove": "Fait avec ❤ en Inde",
-        "footerRightsReserved": "© 2025 Pensées. Tous droits réservés.",
+        "footerRightsReserved": "Tous droits réservés.",
+        "days": ["Dimanche", "Lundi", "Mardi", "Mercredi", "Jeudi", "Vendredi", "Samedi"],
+        "months": ["Janvier", "Février", "Mars", "Avril", "Mai", "Juin", "Juillet", "Août", "Septembre", "Octobre", "Novembre", "Décembre"],
         "editButton": "Édit",
         "deleteButton": "Sup",
         "okButton": "OK",
@@ -93,6 +95,7 @@
         "zoomDisabledNotification": "Zoom Désactivé",
         "footerDescription": "Conçu efficacement : L'application entière fait moins de 1 Mo, y compris tous les actifs.",
         "volumeNotificationTitle": "Améliorez votre expérience",
-        "volumeNotificationMessage": "Pour une meilleure expérience avec les effets sonores, veuillez augmenter le volume de votre appareil au maximum."
+        "volumeNotificationMessage": "Pour une meilleure expérience avec les effets sonores, veuillez augmenter le volume de votre appareil au maximum.",
+        "whatsNewTitle": "Quoi de neuf dans v{version}?"
     }
 }

@@ -22,7 +22,9 @@
         "footerPrivacy": "Pensamientos es seguro y privado. No se recolectan datos—tus notas permanecen locales.",
         "footerCraftedBy": "Creado por",
         "footerMadeWithLove": "Hecho con ❤ en India",
-        "footerRightsReserved": "© 2025 Pensamientos. Todos los derechos reservados.",
+        "footerRightsReserved": "Todos los derechos reservados.",
+        "days": ["Domingo", "Lunes", "Martes", "Miércoles", "Jueves", "Viernes", "Sábado"],
+        "months": ["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"],
         "editButton": "Edt",
         "deleteButton": "Elim",
         "okButton": "OK",
@@ -93,6 +95,7 @@
         "zoomDisabledNotification": "Zoom Desactivado",
         "footerDescription": "Eficientemente diseñado: Toda la aplicación ocupa menos de 1MB, incluyendo todos los activos.",
         "volumeNotificationTitle": "Mejora tu experiencia",
-        "volumeNotificationMessage": "Para la mejor experiencia con efectos de sonido, sube el volumen de tu dispositivo al máximo."
+        "volumeNotificationMessage": "Para la mejor experiencia con efectos de sonido, sube el volumen de tu dispositivo al máximo.",
+        "whatsNewTitle": "¿Qué hay de nuevo en v{version}?"
     }
 }

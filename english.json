@@ -51,7 +51,9 @@
     "okButton": "OK",
     "footerCraftedBy": "Crafted by",
     "footerMadeWithLove": "Made with ❤ in India",
-    "footerRightsReserved": "© 2025 Thoughts. All rights reserved.",
+    "footerRightsReserved": "All rights reserved.",
+    "days": ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+    "months": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
     "deleteLanguageTitle": "Delete Language?",
     "uploadLanguage": "Upload Language",
     "deleteLanguageConfirm" : "Are you sure you want to delete",
@@ -93,6 +95,7 @@
     "zoomDisabledNotification": "Zoom Disabled",
     "footerDescription": "Efficiently crafted: Entire app under 1MB, including all assets.",
     "volumeNotificationTitle": "Enhance Your Experience",
-    "volumeNotificationMessage": "For the best experience with sound effects, please turn your device volume to maximum."
+    "volumeNotificationMessage": "For the best experience with sound effects, please turn your device volume to maximum.",
+    "whatsNewTitle": "What's New in v{version}"
   }
 }

@@ -51,7 +51,9 @@
       "okButton": "✅",
       "footerCraftedBy": "👩‍💻👨‍💻",
       "footerMadeWithLove": "❤️🇮🇳",
-      "footerRightsReserved": "©️ 2025 📝",
+      "footerRightsReserved": "📝",
+      "days": ["☀️", "🌙", "🔥", "🌿", "⚡", "💰", "🎉"],
+      "months": ["❄️", "💌", "🌱", "🌸", "🌞", "🎶", "🏖️", "🎆", "🍂", "🎃", "🦃", "🎄"],
       "deleteLanguageTitle": "🗑️❓",
       "uploadLanguage": "📤🌐",
       "deleteLanguageConfirm" : "🗑️❓",
@@ -93,7 +95,8 @@
       "zoomDisabledNotification": "🔍❌",
       "footerDescription": "⚡📱 <1MB 🔥",
       "volumeNotificationTitle": "🔊🎧",
-      "volumeNotificationMessage": "📢🔝🔊"
+      "volumeNotificationMessage": "📢🔝🔊",
+      "whatsNewTitle": "✨🆕 v{version}"
     }
   }
   
