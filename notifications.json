@@ -1,0 +1,8 @@
+    {
+      "id": "thoughts-backup-reminder",
+      "enabled": true,
+      "type": "backup",
+      "title": "Keep a private backup",
+      "body": "Export a Thoughts backup before changing devices or clearing app data.",
+      "action": "backup"
+    }
