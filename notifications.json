@@ -1,8 +1,12 @@
+{
+  "notifications": [
     {
-      "id": "thoughts-backup-reminder",
+      "id": "thoughts-beta-warning",
       "enabled": true,
       "type": "warning",
       "title": "Beta Bug Warning",
-      "body": "Don't use the app lock, in case use, dont choose default time to immediately lock the app, it will cause the app to crash, and you will lose all your data, we are working on a fix, but for now, please avoid using the app lock feature.",
+      "body": "Don't use App Lock with immediate lock yet. It may crash the app. Use 30 seconds or more until the fix ships.",
       "action": "notifications"
     }
+  ]
+}
