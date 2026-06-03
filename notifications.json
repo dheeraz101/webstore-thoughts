@@ -1,12 +1,20 @@
 {
   "notifications": [
     {
-      "id": "thoughts-beta-warning",
+      "id": "thoughts-info",
       "enabled": true,
-      "type": "warning",
-      "title": "Beta Bug Warning",
-      "body": "Don't use App Lock with immediate lock yet. It may crash the app. Use 30 seconds or more until the fix ships.",
-      "action": "notifications"
+      "type": "info",
+      "title": "Welcome to Thoughts",
+      "body": "To know more about Thoughts visit the about section!",
+      "action": "about"
+    },
+    {
+      "id": "thoughts-backup-reminder",
+      "enabled": true,
+      "type": "backup",
+      "title": "Keep a private backup",
+      "body": "Export a Thoughts backup before changing devices or clearing app data.",
+      "action": "backup"
     }
   ]
 }
